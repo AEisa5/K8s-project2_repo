@@ -9,7 +9,7 @@ The architecture follows Kubernetes best practices such as **Secrets**, **Config
 ---
 
 ## 🏗️ Architecture Diagram
-![Architecture Diagram](screenshots/Screenshot 2026-02-05 231043.png)
+![Architecture Diagram](screenshots/Screenshot%202026-02-05%20231043.png)
 
 ---
 
